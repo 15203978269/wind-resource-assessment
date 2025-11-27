@@ -1,0 +1,2 @@
+# wind-resource-assessment
+ee
